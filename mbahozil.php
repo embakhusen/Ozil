@@ -6,7 +6,6 @@ echo color("blue"," JOIN TO MEMBER BEBEAS JUALAN \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
 
-
 echo "             M   B  A  H     O  Z   I  L      \n";
 
 echo color("green","  SEBELUM REDEEM BACA DOA BIAR JOSSS \n");
