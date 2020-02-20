@@ -2,14 +2,14 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("red"," Reedem & Auto Regist Gojek 2020 \n");
+echo color("red"," Auto Regist Gojek 2020 \n");
 
 echo color("green"," Auto Create & Redeem Voucher \n");
 
 echo color("green"," =================================== \n");
-echo " =======S P A R T A C U S=======      \n";
+echo " =========RADJA ADITYA PRATAMA=========      \n";
 
-echo " BACA DOA BIAR BERKAH BOSS \n";
+echo " BACA DOA BIAR BERKAH \n";
 echo color("green"," =================================== \n");
 
 //	function change(){
