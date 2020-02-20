@@ -2,14 +2,14 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("red"," ******************************  \n");
+echo color("red"," JOIN MEMBER BEBAS JUALAN \n");
 
 echo color("green"," Auto Create & Redeem Voucher \n");
 
 echo color("green"," =================================== \n");
 echo "          M   B  A  H  O  Z  I  L      \n";
 
-echo " Time       : ".date('d-m-Y||H:i:s')." \n";
+echo "          BACA DOA BIAR BERKAH BOSS \n";
 echo color("green"," =================================== \n");
 
 //	function change(){
