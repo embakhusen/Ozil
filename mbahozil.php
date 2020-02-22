@@ -7,9 +7,10 @@ echo color("red"," Auto Regist Gojek 2020 \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 
 echo color("green"," =================================== \n");
-echo " ======== RADJA ADITYA PRATAMA   ========     \n";
+echo "     ======== MBAH OZIL ========     \n";
 
-echo " BACA DOA BIAR BERKAH \n";
+
+echo "      BACA DOA BIAR BERKAH  \n";
 echo color("green"," =================================== \n");
 
 //	function change(){
